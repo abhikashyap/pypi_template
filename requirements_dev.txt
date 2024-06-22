@@ -1,5 +1,5 @@
 ipywidgets == 8.1.3
-notebook == 7.2.1
+notebook 
 ensure == 1.0.2
 py-youtube == 1.1.7
 
