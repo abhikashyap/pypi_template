@@ -3,8 +3,8 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-__version__ = "0.0.3"
-
+__version__ = "0.0.0"
+# modify here
 REPO_NAME = "ipynbrenderer"
 AUTHOR_USER_NAME = "abhikashyap"
 SRC_REPO = "ipynbrenderer"
